@@ -7,7 +7,7 @@
 
 **NPS** (Network Protocols Script) is a lightweight, compiled and interpreted programming language designed for network automation, packet filtering, cryptography, and system scripting. It combines the strictness of C++ preprocessor directives with the simplicity of Python‑like syntax.
 
-> 🚀 **Alpha release v0.0.3** – see [Releases](https://github.com/hiodev/nps/releases) for downloads.
+> 🚀 **Alpha release v0.0.3** – see [Releases](https://github.com/hiodeveloper/NPS/releases) for downloads.
 
 ---
 
